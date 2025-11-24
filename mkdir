@@ -1,0 +1,4 @@
+#This file is to learn basic make directory command
+
+mkdir dirname #will create new directory
+mkdir -p dirname #creates dir with parent directory
